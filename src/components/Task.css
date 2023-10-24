@@ -1,0 +1,7 @@
+/* src/components/Task.css */
+.task-item {
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 8px; /* Add some margin between each task */
+  }
+  
